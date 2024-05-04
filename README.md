@@ -1,5 +1,5 @@
-### c++, python developer
+### hello there 👋
 
-i make roblox cheats
+i like coding in lua, c++, python, and typescript but not c# and javascript
 
-discord @ flu_ke
+**discord @** flukest
